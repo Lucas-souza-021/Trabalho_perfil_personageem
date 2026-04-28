@@ -25,3 +25,103 @@ body{
         font-size: 20px;
     }
 }
+.Genos{
+    background-color: hsl(0, 0%, 25%);
+    color: lab(94.25% 0.67 0.23 / 0.774);
+    
+    img{
+        float: right;
+        margin-top: -200px;
+        height: 450px;
+    }
+    p{
+        width: 50%;
+        font-size: 19px;
+    }
+    h1{
+        color:rgba(223, 101, 1, 0.952);
+        font-size: 70px;
+    }
+    h2{
+        color:rgb(184, 181, 15);
+        font-size: 32px;
+    }
+    li{
+        font-size: 20px;
+    }
+}
+.Garou{
+    background-color: hsl(0, 0%, 25%);
+    color: lab(94.25% 0.67 0.23 / 0.774);
+    
+    img{
+        float: right;
+        margin-top: -400px;
+        height: 700px;
+    }
+    p{
+        width: 50%;
+        font-size: 19px;
+    }
+    h1{
+        color:rgba(248, 99, 0, 0.952);
+        font-size: 70px;
+    }
+    h2{
+        color:rgb(241, 241, 236);
+        font-size: 32px;
+    }
+    li{
+        font-size: 20px;
+    }
+}
+.King{
+    background-color: hsl(0, 0%, 25%);
+    color: lab(94.25% 0.67 0.23 / 0.774);
+    
+    img{
+        float: right;
+        margin-top: -370px;
+        height: 650px;
+    }
+    p{
+        width: 50%;
+        font-size: 19px;
+    }
+    h1{
+        color:rgba(206, 2, 2, 0.952);
+        font-size: 70px;
+    }
+    h2{
+        color:rgb(207, 177, 3);
+        font-size: 32px;
+    }
+    li{
+        font-size: 20px;
+    }
+}
+.Bang{
+    background-color: hsl(0, 0%, 25%);
+    color: lab(94.25% 0.67 0.23 / 0.774);
+    
+    img{
+        float: right;
+        margin-top: -300px;
+        height: 600px;
+    }
+    p{
+        width: 50%;
+        font-size: 19px;
+    }
+    h1{
+        color:rgba(253, 123, 83, 0.952);
+        font-size: 70px;
+    }
+    h2{
+        color:rgb(163, 87, 1);
+        font-size: 32px;
+    }
+    li{
+        font-size: 20px;
+    }
+}
